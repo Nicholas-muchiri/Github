@@ -111,9 +111,9 @@ div.container-fluid.search{
 /* End of Repositories Styling */
 
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 348px) {
+@media only screen and (max-width: 369px) {
     div.card-header{
-        height: 180px;
+        height: 150px;
     }
 
 } 
