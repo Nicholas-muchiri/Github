@@ -12,7 +12,7 @@ form.form-inline.ng-untouched.ng-pristine.ng-valid{
 .searchtext{
     padding-top:10px;
     font-size: 14px;
-    color:#8c8b8b;
+    color:#1E90FF;
 }
 span.badge{
     float: right;
@@ -48,5 +48,5 @@ div.loadMore{
 
 button.loadMore{
     height: 100px;
-    border-radius: 100px;
+    -webkit-border-radius: 100px;
 }

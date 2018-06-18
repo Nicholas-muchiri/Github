@@ -14,9 +14,9 @@ export class LastPipe implements PipeTransform {
       } else if(value.charAt(i)!==" "){
         getWord = getWord + value.charAt(i);
       }
-  
+
     }
-  
+
     return getWord;
   }
 
