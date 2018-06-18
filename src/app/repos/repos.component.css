@@ -12,7 +12,7 @@ form.form-inline.ng-untouched.ng-pristine.ng-valid{
 .searchtext{
     padding-top:10px;
     font-size: 14px;
-    color:#1E90FF;
+    color:#8c8b8b;
 }
 span.badge{
     float: right;
@@ -26,10 +26,10 @@ i{
 }
 h4.style2{
     margin-top: 50px;
-    font-family: "DejaVu Sans Mono";
+    font-family: 'Great Vibes', cursive;
     text-align: center;
     font-size: 36px;
-    color: #800080;
+    color:#0BB6E4;
 }
 
 hr.style2 { 
@@ -48,5 +48,5 @@ div.loadMore{
 
 button.loadMore{
     height: 100px;
-    -webkit-border-radius: 100px;
+    border-radius: 100px;
 }
