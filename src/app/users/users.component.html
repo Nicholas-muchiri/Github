@@ -70,7 +70,7 @@
                   <table>
                       <tr *ngIf="users.created_at">
                         <td>Created On</td>
-                        <td>{{users.created_at | date}}</td>
+                        <td>{{users.created_at}}</td>
 
                       </tr>
                       <tr>
@@ -102,7 +102,7 @@
 
 <!-- Begin of Repositories Section -->
       <div class="container-fluid">
-          <h4 class="style2">{{users.name | last}}'s Repositories</h4>
+          <h4 class="style2">{{users.name}}'s Repositories</h4>
           <hr class="style2">
         <div class="row">
 
@@ -121,7 +121,7 @@
                          {{repo.description}}
                       </p>
                       <p>
-                        {{repo.created_at | date}}
+                        {{repo.created_at}}
                       </p>
                       <a href="{{repo.html_url}}" target="_blank" class= "btn btn-primary btn-sm">View on Github</a>
                   </div>
