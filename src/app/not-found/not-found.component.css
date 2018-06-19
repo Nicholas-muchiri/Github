@@ -1,0 +1,9 @@
+h1{
+    font-size: 70px;
+    font-family: "serif";
+    padding-top: 50px;
+}
+body {
+    background-image: url("https://github.com/");
+    background-size: cover;
+}

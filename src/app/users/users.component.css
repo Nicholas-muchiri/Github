@@ -87,6 +87,7 @@ i{
     padding-top:10px;
     font-size: 14px;
     color:#8c8b8b;
+    position: inherit;
 }
 
 /* End of Users Styling */
@@ -107,6 +108,7 @@ div.cards.repocard{
 div.container-fluid.search{
     padding-bottom: 0px;
     padding-left: 50px;
+    position: center;
 
 }
 /* End of Repositories Styling */
