@@ -12,6 +12,9 @@ margin-top: 80px;
 .profile{
     margin: 20px;
 }
+div.container{
+    background-image: url("/assets/mic.jpg");
+}
 img{
     width:inherit;
     text-align: centre;
