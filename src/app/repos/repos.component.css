@@ -4,7 +4,9 @@ div.wrapper{
 div.container-fluid{
     padding-left: 50px;
     padding-right: 50px;
+    background-image: url("/assets/images.jpeg");
 }
+
 form.form-inline.ng-untouched.ng-pristine.ng-valid{
         /* float: right; */
         margin-bottom: 10px;
